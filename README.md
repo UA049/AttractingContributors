@@ -25,4 +25,5 @@ Please tell us your favorite IDOL
 * M!LK
 * 新内眞衣（乃木坂46）
 * 最上静香
+* IVE
 * 嵐
