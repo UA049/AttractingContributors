@@ -10,7 +10,7 @@ Because, It is lucky seven !
 1. 256  
 2. 56   
 3. 512
-4. a   
+4. 11   
 5. a   
 6. a   
 7. a  
